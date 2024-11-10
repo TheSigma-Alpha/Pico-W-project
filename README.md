@@ -47,3 +47,5 @@
 
   <h3>Step 5: Coding in Visual Studio</h3>
   <p>Insert the code into Visual Studio Code, and set up the MicroPico extension to enable communication between your computer and the device. Make sure you have the correct cable to connect the Pico W to your laptop.</p>
+
+<p>If needed you can have a look at the PictureOfSetUp which is a diagram of what it should look like</p>
